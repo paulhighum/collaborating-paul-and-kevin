@@ -7,3 +7,5 @@ Task 2: Paul will create a new CSS file and link to it from one of the HTML file
 Task 3: Kevin will create an array of objects. Each object should have a name and age.
 
 Task 4: Paul will create another new html file and link to it from index.html.
+
+Task 5: Kevin will  remove a file other than index.html.

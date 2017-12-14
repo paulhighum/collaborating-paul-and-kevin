@@ -9,3 +9,5 @@ Task 3: Kevin will create an array of objects. Each object should have a name an
 Task 4: Paul will create another new html file and link to it from index.html.
 
 Task 5: Kevin will  remove a file other than index.html.
+
+Task 6: Paul will create an array of numbers in a Javascript file and write a function that multiplies them together.

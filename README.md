@@ -15,3 +15,5 @@ Task 6: Paul will create an array of numbers in a Javascript file and write a fu
 Task 7: Kevin will create a new HTML file. Link to it from index.html
 
 Task 8 Paul and Kevin will both edit and HTML file, adding a recipe in list format.
+
+Task 9: Kevin will remove a file other than index.html.

@@ -1,7 +1,7 @@
 const people= [
-  {name: Kevin,
+  {name: "Kevin",
   age:32},
-  {name: Paul,
+  {name: "Paul",
   age:24}
 ]
 
@@ -14,3 +14,14 @@ function sum(array) {
 }
 
 sum(numbers)
+
+const wizards = [
+  {
+    name: "Dumbledore",
+    age: 77
+  },{
+    name: "Gandalf",
+    age: 5000
+  }
+
+]
